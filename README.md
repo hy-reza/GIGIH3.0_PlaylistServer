@@ -25,6 +25,10 @@ build a simple Express.js server which manages a Spotify-like playlist.
 - **Increment the song play count:** `PUT /playlist/:id`. This endpoint increments the song play count of the playlist with the given ID.
 - **Get all playlists:** `GET /playlists`. This endpoint returns the list of all playlists, sorted by the most played song.
 
+## API Documentation
+
+Detailed API documentation can be found on our [Postman documentation page](https://documenter.getpostman.com/view/15041975/2s946k6qr5).
+
 ## Testing with Curl
 
 - **Create a new playlist:** `curl -X POST -H "Content-Type: application/json" -d '{"title":"My Playlist","artists":["Artist1","Artist2"]}' http://localhost:3000/playlist`

@@ -27,7 +27,7 @@ build a simple Express.js server which manages a Spotify-like playlist.
 
 ## API Documentation
 
-Detailed API documentation can be found on our [Postman documentation page](https://documenter.getpostman.com/view/15041975/2s946k6qr5).
+Detailed API documentation can be found on my [Postman documentation page](https://documenter.getpostman.com/view/15041975/2s946k6qr5).
 
 ## Testing with Curl
 
